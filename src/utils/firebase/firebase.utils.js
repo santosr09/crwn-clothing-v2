@@ -21,12 +21,12 @@ import {
 } from 'firebase/firestore';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCsKVE0xXr8NAAiqxbqxUeig03ovCd4f70",
-  authDomain: "crwn-db-47770.firebaseapp.com",
-  projectId: "crwn-db-47770",
-  storageBucket: "crwn-db-47770.appspot.com",
-  messagingSenderId: "267882424058",
-  appId: "1:267882424058:web:3dc7fced170690e0a64b43",
+  apiKey: "AIzaSyDU-F3_k-iWG_ph3d2kM2w8tmx60KdkFkg",
+  authDomain: "crwn-amplify.firebaseapp.com",
+  projectId: "crwn-amplify",
+  storageBucket: "crwn-amplify.appspot.com",
+  messagingSenderId: "336062355852",
+  appId: "1:336062355852:web:2ee7627ffe71a8894ddea9"
 };
 
 const firebaseApp = initializeApp(firebaseConfig);
